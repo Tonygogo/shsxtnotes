@@ -20,10 +20,11 @@ import com.shsxt.util.StringUtil;
  *
  */
 public class BaseDao {
+	
 
 	/**
 	 * 添加、修改、删除操作
-	 * @param sql
+	 * @param sql 
 	 * @param params 可变参数
 	 * @return
 	 */
